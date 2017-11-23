@@ -1,0 +1,23 @@
+{
+  "name": "no-buildtool-development",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kitak-sandbox/no-buildtool-development.git"
+  },
+  "author": "Keisuke KITA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kitak-sandbox/no-buildtool-development/issues"
+  },
+  "homepage": "https://github.com/kitak-sandbox/no-buildtool-development#readme",
+  "dependencies": {
+    "lit-html": "^0.7.1"
+  }
+}
